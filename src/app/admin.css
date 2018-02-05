@@ -1,0 +1,9 @@
+.app-container {
+  display: flex;
+}
+
+.sidenav-container {
+  border-right: 1px solid black;
+  margin-right: 20px;
+  width: 200px;
+}
